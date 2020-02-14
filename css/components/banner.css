@@ -1,0 +1,31 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 2.8) 0%, rgba(0, 0, 0, 0.2) 50%), url(../../images/01.jpg);
+	color: white; 
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+} 
+
+.banner h1 {
+	font-size: 50px;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+
+}
+
+.banner2 {
+  background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 1.9) 100%), url(../../images/05.jpg);
+  color: white; 
+  padding: 100px 0px;
+  background-size: cover;
+  background-position: top;
+  margin-bottom: 30px;
+}
+
+.banner2 h2 {
+	text-align: center;
+}
